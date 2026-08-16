@@ -4,7 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/Amin-Ahmed-G)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=Firefox&logoColor=22D3EE)](https://amin-ahmed-g.github.io/Protofolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/amin-ahmed-g/)
+[![Gmail](https://img.shields.io/badge/Gmail-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aminahmedg2005@gmail.com)
 
 ---
 
@@ -65,14 +66,6 @@ This isn't a resume of tutorial projects. These are real systems where I encount
 
 ---
 
-### Current Context
-
-**Interning** in warehouse and forklift automation — deploying and commissioning autonomous navigation systems in live production environments.
-
-**Training engineers** on industrial PLC/SCADA systems — designed and delivered a structured 6-day IEC 61131-3 curriculum covering Ladder Diagram, Function Block, Structured Text, hardware I/O configuration, and HMI integration.
-
-**Research direction** — most ROS 2 and DDS deployments assume the underlying network is friendly. As autonomous robots move onto factory floors alongside SCADA systems and industrial controllers, that assumption becomes a vulnerability surface. Very few engineers work at this specific intersection. I'm building toward it deliberately.
-
 ---
 
 ### Why This Combination
@@ -85,4 +78,4 @@ The convergence of autonomous mobile robots with industrial control environments
 
 **Open to:** Robotics software engineering · Autonomous systems · ROS 2 / Nav2 development · Robotics/ICS security research
 
-[@Amin-Ahmed-G](https://github.com/Amin-Ahmed-G) · Anna University · Robotics and Automation Engineering
+[@Amin-Ahmed-G](https://github.com/Amin-Ahmed-G) · [LinkedIn](https://www.linkedin.com/in/amin-ahmed-g/) · [aminahmedg2005@gmail.com](mailto:aminahmedg2005@gmail.com) · Anna University · Robotics and Automation Engineering
